@@ -1,0 +1,5 @@
+D:\All Visual Studio Projects\SampleProject\mbWcfSample\Core\bin\Debug\Core.dll
+D:\All Visual Studio Projects\SampleProject\mbWcfSample\Core\bin\Debug\Core.pdb
+D:\All Visual Studio Projects\SampleProject\mbWcfSample\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\All Visual Studio Projects\SampleProject\mbWcfSample\Core\obj\Debug\Core.dll
+D:\All Visual Studio Projects\SampleProject\mbWcfSample\Core\obj\Debug\Core.pdb
